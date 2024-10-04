@@ -1,0 +1,7 @@
+#many values to multiple variablese
+
+#python allows you to assign values to multiple variabls in onee line:
+
+
+x, y, z = (" orange", " banana", " cherry")
+print(x)

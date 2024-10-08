@@ -1,4 +1,4 @@
-#the forma() method takes unlimited number of arguments:
+#the format() method takes unlimited number of arguments:
 #and are placed into the respective placeholders:
 
 

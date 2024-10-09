@@ -4,9 +4,9 @@ from operator import truediv
 
 #string, int and boolean data types ?
 
-list1 = ["apple", "banana", "cherry" ,1 ,true]
+list1 = ["apple","banana","cherry"]
 list2 = [1, 2, 3 ,9, 3]
-list3 = [true, false, false]
+list3 = [True, False, False]
 
 print(list1)
 print(list2)

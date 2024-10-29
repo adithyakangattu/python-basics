@@ -12,4 +12,4 @@ print(thislist)
 #"banana". lower ()returns "banana"#
 #"Orange".lower()returns "Orange"
 #"kiwi" . lower () returns "kiwi"
-#"cherry".lower () returns "vherry"
+#"cherry".lower () returns "cherry"

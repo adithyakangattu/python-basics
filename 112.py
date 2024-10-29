@@ -1,7 +1,7 @@
 #loop through the index numbers
 
 #You can also loop through the tuple items by referring
-# to their index nmber .
+# to their index number .
 
 #use the range () and len () functions to create a suitable iterables
 
@@ -9,5 +9,6 @@
 
 thistuple = ("apple","banana","cherry")
 
-for i in range(len(thistuple(i))):
+i = 0
+for i in range(len(thistuple[i])):
     print(thistuple[i])

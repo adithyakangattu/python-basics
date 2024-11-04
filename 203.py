@@ -4,8 +4,7 @@
 # using a while loop to print the value of n as
 # long as n is less than or equal to 5
 
-
-
+# exit the loop when n is 5 ?
 
 
 n = 1
